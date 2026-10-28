@@ -1,0 +1,12 @@
+# CÓDIGOS DE DESCUENTO
+# Una línea por código, con este formato:
+#   CODIGO = 10%               (descuento en porcentaje)
+#   CODIGO = $1.00             (descuento en dólares)
+#   CODIGO = 10% | 1 uso       (cada cliente puede usarlo solo 1 vez)
+#   CODIGO = 10% | 3 usos      (cada cliente puede usarlo hasta 3 veces)
+# Las líneas que empiezan con # se ignoran. Quita el # para activar un código.
+# Para desactivar un código, ponle # delante o borra la línea.
+#
+# Ejemplos:
+# FUEGO10 = 10% | 1 uso
+# GRACIAS = $1.00
