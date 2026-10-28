@@ -5,7 +5,7 @@
 #
 # Nombres disponibles:
 # Bistec Fuego
- Pollo Fuego
+# Pollo Fuego
 # Chuleta Fuego
 # Mixto Fuego
 # Papas fritas
