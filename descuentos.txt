@@ -10,4 +10,4 @@
 # Ejemplos:
 # FUEGO10 = 10% | 1 uso
 # GRACIAS = $1.00
-#   FUEGO50 = 50% | 1 uso
+   FUEGO50 = 50% | 1 uso
