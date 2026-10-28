@@ -1,0 +1,28 @@
+# PLATOS AGOTADOS
+# Escribe aquí, uno por línea, el nombre EXACTO de los productos que se acabaron.
+# Las líneas que empiezan con # se ignoran. Quita el producto de la lista cuando vuelva a haber.
+# Ejemplo: borra el # de la línea del plato que quieras desactivar.
+#
+# Nombres disponibles:
+# Bistec Fuego
+# Pollo Fuego
+# Chuleta Fuego
+# Mixto Fuego
+# Papas fritas
+# Arroz blanco
+# Arroz moro de lentejas
+# Arroz moro de frijol
+# Patacones
+# Ensalada fresca
+# Chorizos
+# Huevo frito
+# Gaseosa
+# Agua
+# Jugos naturales
+# Chimichurri
+# Salsa picante
+# Salsa BBQ
+# Mayonesa
+# Salsa de la casa
+# Salsa de queso
+# Salsa de tomate
