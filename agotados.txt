@@ -1,0 +1,45 @@
+# FUEGO GRILL - productos agotados (respaldo si la hoja de Google no responde)
+#
+# Para marcar algo como agotado, escribe su nombre en una linea, tal cual esta abajo.
+# Las lineas que empiezan con # se ignoran. Si no hay ninguna linea sin #, todo esta disponible.
+#
+# Choriverde: si lo escribes, se bloquean todos sus precios.
+# Pescado frito: si lo escribes, se bloquea toda la tarjeta; para un solo tamano escribe, por ejemplo, Pescado frito de $2.50.
+#
+# Nombres disponibles:
+# Bistec Fuego
+# Pollo Fuego
+# Chuleta Fuego
+# Mixto Fuego
+# Pescado frito
+# Pescado frito de $2.00
+# Pescado frito de $2.50
+# Pescado frito de $2.75
+# Pescado frito de $3.00
+# Pescado frito de $4.00
+# Pescado frito de $5.00
+# Choriverde
+# Choriverde de $1.00
+# Choriverde de $1.50
+# Choriverde de $2.00
+# Choriverde de $2.50
+# Choriverde de $3.00
+# Picadita de carne
+# Papas fritas
+# Arroz blanco
+# Arroz moro de lentejas
+# Arroz moro de frijol
+# Patacones
+# Ensalada fresca
+# Chorizos
+# Huevo frito
+# Gaseosa
+# Agua
+# Jugos naturales
+# Chimichurri
+# Salsa picante
+# Salsa BBQ
+# Mayonesa
+# Salsa de la casa
+# Salsa de queso
+# Salsa de tomate
