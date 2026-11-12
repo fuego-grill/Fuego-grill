@@ -13,7 +13,7 @@
 # Mixto Fuego
 # Pescado frito
 # Pescado frito de $2.00
-# Pescado frito de $2.50 x
+  Pescado frito de $2.50 x
 # Pescado frito de $2.75
 # Pescado frito de $3.00
 # Pescado frito de $4.00
@@ -21,8 +21,8 @@
 # Choriverde
 # Choriverde de $1.00
 # Choriverde de $1.50
-# Choriverde de $2.00 x
-# Choriverde de $2.50 x
+  Choriverde de $2.00 x
+  Choriverde de $2.50 x
 # Choriverde de $3.00
 # Picadita de carne
 # Papas fritas
